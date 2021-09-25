@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tusshar7/Ecommerce.git/static/css/main.bca3aff9.chunk.css",
+    "main.js": "/tusshar7/Ecommerce.git/static/js/main.4d27841d.chunk.js",
+    "main.js.map": "/tusshar7/Ecommerce.git/static/js/main.4d27841d.chunk.js.map",
+    "runtime-main.js": "/tusshar7/Ecommerce.git/static/js/runtime-main.6ac62211.js",
+    "runtime-main.js.map": "/tusshar7/Ecommerce.git/static/js/runtime-main.6ac62211.js.map",
+    "static/js/2.a5dffd41.chunk.js": "/tusshar7/Ecommerce.git/static/js/2.a5dffd41.chunk.js",
+    "static/js/2.a5dffd41.chunk.js.map": "/tusshar7/Ecommerce.git/static/js/2.a5dffd41.chunk.js.map",
+    "static/js/3.6bab245c.chunk.js": "/tusshar7/Ecommerce.git/static/js/3.6bab245c.chunk.js",
+    "static/js/3.6bab245c.chunk.js.map": "/tusshar7/Ecommerce.git/static/js/3.6bab245c.chunk.js.map",
+    "index.html": "/tusshar7/Ecommerce.git/index.html",
+    "static/css/main.bca3aff9.chunk.css.map": "/tusshar7/Ecommerce.git/static/css/main.bca3aff9.chunk.css.map",
+    "static/js/2.a5dffd41.chunk.js.LICENSE.txt": "/tusshar7/Ecommerce.git/static/js/2.a5dffd41.chunk.js.LICENSE.txt",
+    "static/media/181632.42db97ad.jpg": "/tusshar7/Ecommerce.git/static/media/181632.42db97ad.jpg",
+    "static/media/heart.5041d0a0.png": "/tusshar7/Ecommerce.git/static/media/heart.5041d0a0.png",
+    "static/media/index.f6f3b4e0.jpg": "/tusshar7/Ecommerce.git/static/media/index.f6f3b4e0.jpg",
+    "static/media/logo.6ce24c58.svg": "/tusshar7/Ecommerce.git/static/media/logo.6ce24c58.svg",
+    "static/media/pic2.46fb3b87.jpg": "/tusshar7/Ecommerce.git/static/media/pic2.46fb3b87.jpg",
+    "static/media/pic3.598603d2.jpg": "/tusshar7/Ecommerce.git/static/media/pic3.598603d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ac62211.js",
+    "static/js/2.a5dffd41.chunk.js",
+    "static/css/main.bca3aff9.chunk.css",
+    "static/js/main.4d27841d.chunk.js"
+  ]
+}
